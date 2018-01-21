@@ -1,0 +1,379 @@
+2018-01-20 15:36:40.890 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:36:40.895 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:36:41.305 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 15:36:43.905 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:36:43.907 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:36:44.167 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:36:44.174 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:36:45.199 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:36:45.212 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:36:45.225 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:36:45.262 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.721 seconds (JVM running for 5.625)
+2018-01-20 15:36:55.665 [http-nio-8080-exec-2] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=75B5A08D92E18455259814A43DBB6FA4] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 15:36:55.682 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:36:55.748 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello 信息3
+2018-01-20 15:37:14.862 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello 信息3
+2018-01-20 15:37:31.384 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:37:31.385 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:37:32.097 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:37:32.097 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:37:32.240 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:37:32.243 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:37:32.506 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:37:32.506 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:37:32.507 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:37:32.514 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.228 seconds (JVM running for 52.877)
+2018-01-20 15:37:33.164 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:37:33.174 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello 信息4
+2018-01-20 15:38:15.528 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:38:15.528 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:38:16.266 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:38:16.267 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:38:16.405 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:38:16.408 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:38:16.974 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:38:16.975 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:38:16.976 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:38:16.991 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.521 seconds (JVM running for 97.354)
+2018-01-20 15:38:17.939 [http-nio-8080-exec-8] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:38:17.947 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello 信息  == 4
+2018-01-20 15:38:37.140 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:38:37.142 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:38:37.581 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:38:37.588 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:38:37.656 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:38:37.658 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:38:37.917 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:38:37.917 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:38:37.918 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:38:37.923 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.832 seconds (JVM running for 118.286)
+2018-01-20 15:38:46.485 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:38:46.493 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:39:05.357 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:39:05.358 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:39:05.705 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:39:05.705 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:39:05.761 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:39:05.765 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:39:05.965 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:39:05.966 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:39:05.967 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:39:05.975 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.705 seconds (JVM running for 146.338)
+2018-01-20 15:39:10.869 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:39:10.870 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:39:11.390 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:39:11.390 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:39:11.459 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:39:11.470 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:39:11.670 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:39:11.671 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:39:11.672 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:39:11.678 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.842 seconds (JVM running for 152.041)
+2018-01-20 15:40:16.648 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:40:16.648 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:40:17.187 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:40:17.187 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:40:17.257 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:40:17.262 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:40:17.484 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:40:17.484 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:40:17.486 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:40:17.491 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.877 seconds (JVM running for 217.854)
+2018-01-20 15:40:24.757 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:40:38.607 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:41:28.633 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 21424 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:41:28.634 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:41:28.964 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:41:28.964 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:41:29.030 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:41:29.032 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:41:29.256 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:41:29.256 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:41:29.257 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:41:29.266 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.692 seconds (JVM running for 289.629)
+2018-01-20 15:41:50.138 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:41:50.142 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:41:52.384 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:42:09.113 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:42:09.819 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:42:10.690 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:42:11.264 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:42:11.760 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:51:30.218 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:51:32.064 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:51:33.026 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:51:33.785 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:51:34.440 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:52:28.656 [http-nio-8080-exec-7] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:52:40.417 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 14168 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:52:40.420 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:52:40.816 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 15:52:42.682 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:52:42.684 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:52:42.913 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:52:42.922 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:52:43.870 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:52:43.879 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:52:43.931 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:52:43.931 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2018-01-20 15:52:43.942 [restartedMain] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2018-01-20 15:52:43.943 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:52:43.943 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:53:18.375 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 33344 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:53:18.377 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:53:18.737 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 15:53:20.337 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:53:20.339 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:53:20.559 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:53:20.565 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:53:21.485 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:53:21.492 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:53:21.504 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:53:21.541 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 3.468 seconds (JVM running for 4.348)
+2018-01-20 15:53:27.321 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=A0E4BCFCD4B0BE7B33CA644B531C0E0E] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 15:53:27.328 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:53:27.486 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:58:22.375 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 33344 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:58:22.375 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:58:22.879 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:58:22.880 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:58:23.008 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:58:23.011 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:58:23.415 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:58:23.416 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:58:23.417 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:58:23.428 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.161 seconds (JVM running for 306.235)
+2018-01-20 15:58:56.422 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 33344 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 15:58:56.423 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 15:58:56.940 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 15:58:56.941 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 15:58:57.027 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 15:58:57.030 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 15:58:57.234 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:58:57.234 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 15:58:57.236 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 15:58:57.244 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.881 seconds (JVM running for 340.052)
+2018-01-20 15:59:01.596 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 15:59:01.603 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:59:05.797 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:59:07.532 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 15:59:08.000 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:00:37.457 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 33344 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:00:37.458 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:00:38.084 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:00:38.084 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:00:38.147 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:00:38.150 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:00:38.423 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:00:38.424 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:00:38.425 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:00:38.431 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.048 seconds (JVM running for 441.238)
+2018-01-20 16:00:46.504 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:00:57.140 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:02.573 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:05.817 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:12.829 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:15.327 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:16.023 [http-nio-8080-exec-10] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:16.416 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:01:38.736 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:02:00.631 [http-nio-8080-exec-6] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:02:01.391 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:02:09.556 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 33344 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:02:09.557 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:02:10.037 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:02:10.037 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:02:10.129 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:02:10.131 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:02:10.524 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:10.524 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:10.525 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:02:10.588 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.08 seconds (JVM running for 533.395)
+2018-01-20 16:02:32.315 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 30664 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:02:32.319 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:02:32.652 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:02:34.269 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:02:34.270 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:02:34.470 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:02:34.475 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:02:35.366 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:35.373 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:35.399 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:35.399 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2018-01-20 16:02:35.411 [restartedMain] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2018-01-20 16:02:35.412 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:02:35.413 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:03:00.901 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 6360 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:03:00.904 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:03:01.273 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:03:02.881 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:03:02.882 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:03:03.098 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:03:03.103 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:03:04.767 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:03:04.775 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:03:04.786 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:03:04.825 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.232 seconds (JVM running for 5.138)
+2018-01-20 16:03:08.420 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=9A1DEDE9085BFC9207DEAF70C9DBFF37] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:03:08.433 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:03:08.491 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:13:46.517 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 27296 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:13:46.521 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:13:46.836 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:13:48.952 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:13:48.954 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:13:49.195 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:13:49.199 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:13:50.434 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:13:50.444 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:13:50.472 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:13:50.472 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2018-01-20 16:13:50.490 [restartedMain] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2018-01-20 16:13:50.490 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:13:50.490 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:14:40.709 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 23956 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:14:40.713 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:14:41.023 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:14:42.849 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:14:42.851 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:14:43.083 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:14:43.090 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:14:44.464 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:14:44.479 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:14:44.494 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:14:44.529 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.18 seconds (JVM running for 9.271)
+2018-01-20 16:15:03.004 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=0A73BB22118395E99EA7107077FDF2CF] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:15:03.011 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:15:13.521 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:24:07.580 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 23956 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:24:07.581 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:24:08.146 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:24:08.146 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:24:08.228 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:24:08.231 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:24:08.931 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:24:08.931 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:24:08.932 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:24:08.962 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.442 seconds (JVM running for 573.703)
+2018-01-20 16:24:31.301 [http-nio-8080-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:25:29.758 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 23956 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:25:29.759 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:25:30.132 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:25:30.133 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:25:30.204 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:25:30.207 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:25:30.525 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:25:30.526 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:25:30.527 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:25:30.535 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 0.826 seconds (JVM running for 655.277)
+2018-01-20 16:26:31.097 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 6388 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:26:31.103 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:26:31.421 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:26:33.356 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:26:33.358 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:26:33.598 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:26:33.604 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:26:34.851 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:26:34.864 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:26:34.885 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:26:34.947 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.21 seconds (JVM running for 8.854)
+2018-01-20 16:26:44.022 [http-nio-8080-exec-4] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=80B0451964B351CA35ED20264001FCF8] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:26:44.034 [http-nio-8080-exec-4] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:27:13.427 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:27:47.302 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 6388 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:27:47.305 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:27:48.262 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:27:48.263 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:27:48.364 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:27:48.367 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:27:48.796 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:27:48.797 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:27:48.798 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:27:48.806 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.674 seconds (JVM running for 82.712)
+2018-01-20 16:28:47.593 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:28:47.605 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:28:49.440 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:30:23.079 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 6388 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:30:23.080 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:30:23.498 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:30:23.498 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:30:23.601 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:30:23.604 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:30:23.754 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2018-01-20 16:30:48.726 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 6388 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:30:48.726 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:30:49.222 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:30:49.222 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:30:49.288 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:30:49.291 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:30:49.898 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:30:49.900 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:30:49.902 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:30:49.927 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 1.25 seconds (JVM running for 263.833)
+2018-01-20 16:31:03.555 [http-nio-8080-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:31:03.566 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:05.764 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:06.552 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:07.134 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:07.559 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:07.800 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:08.078 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:08.354 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:08.622 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:09.037 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:15.389 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:17.557 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:18.201 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:18.733 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:19.309 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:19.792 [http-nio-8080-exec-3] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:20.104 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:20.583 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:20.842 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:31:36.918 [http-nio-8080-exec-7] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:52:05.075 [http-nio-8080-exec-9] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello 信息  == 4
+2018-01-20 16:52:13.125 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:52:18.775 [http-nio-8080-exec-6] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:53:38.270 [http-nio-8080-exec-4] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:54:10.495 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 30960 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:54:10.505 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:54:10.836 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:54:12.759 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:54:12.760 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:54:12.966 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:54:12.971 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:54:14.101 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:54:14.121 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:54:14.143 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:54:14.184 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.069 seconds (JVM running for 7.555)
+2018-01-20 16:54:25.748 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=6E4BBC51F970767D44ABC521996DD1C1] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:54:25.765 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:55:57.798 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 36728 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:55:57.803 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:55:58.205 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:56:00.033 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:56:00.034 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:56:00.244 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:56:00.253 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:56:01.408 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:56:01.419 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:56:01.432 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:56:01.473 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.078 seconds (JVM running for 33.168)
+2018-01-20 16:56:12.648 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=6E4BBC51F970767D44ABC521996DD1C1] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:56:12.656 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:56:50.990 [http-nio-8080-exec-7] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:57:13.919 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-20 16:57:42.064 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 10780 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100006_spring-boot-devtools-tomcat-jsp)
+2018-01-20 16:57:42.071 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-20 16:57:42.475 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-20 16:57:44.658 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-20 16:57:44.659 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-20 16:57:44.870 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-20 16:57:44.877 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-20 16:57:46.385 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:57:46.394 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-20 16:57:46.409 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-20 16:57:46.441 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 4.801 seconds (JVM running for 8.846)
+2018-01-20 16:57:52.192 [http-nio-8080-exec-2] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641; JSESSIONID=10E1423514FBCE8C2E49979EC9D34DDB] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-20 16:57:52.206 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-20 16:57:52.270 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4

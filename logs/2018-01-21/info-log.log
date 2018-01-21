@@ -1,0 +1,43 @@
+2018-01-21 09:47:23.012 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Starting HelloServiceTest on evan-book-liu with PID 21612 (started by hadoop in E:\n_01_opensource(寮�婧愬ぇ涓栫晫)\n_02_intllij_workspaces\n_100007_spring-boot-junit-test-service)
+2018-01-21 09:47:23.020 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - No active profile set, falling back to default profiles: default
+2018-01-21 09:47:23.540 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-21 09:47:23.774 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Started HelloServiceTest in 1.419 seconds (JVM running for 2.828)
+2018-01-21 09:48:16.695 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Starting HelloServiceTest on evan-book-liu with PID 35108 (started by hadoop in E:\n_01_opensource(寮�婧愬ぇ涓栫晫)\n_02_intllij_workspaces\n_100007_spring-boot-junit-test-service)
+2018-01-21 09:48:16.706 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - No active profile set, falling back to default profiles: default
+2018-01-21 09:48:17.389 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-21 09:48:20.919 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Started HelloServiceTest in 4.69 seconds (JVM running for 5.871)
+2018-01-21 09:48:21.094 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloService - [HelloService.hello] call Sun Jan 21 09:48:21 CST 2018
+2018-01-21 09:49:30.341 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 13636 (started by hadoop in E:\n_01_opensource(寮�婧愬ぇ涓栫晫)\n_02_intllij_workspaces\n_100007_spring-boot-junit-test-service)
+2018-01-21 09:49:30.364 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-21 09:49:30.826 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-21 09:49:33.266 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-21 09:49:33.268 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-21 09:49:33.550 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-21 09:49:33.569 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-21 09:49:34.692 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-21 09:49:34.709 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-21 09:49:34.722 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-21 09:49:34.757 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 5.013 seconds (JVM running for 6.132)
+2018-01-21 09:51:36.437 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Starting Run on evan-book-liu with PID 36684 (started by hadoop in E:\n_01_opensource(开源大世界)\n_02_intllij_workspaces\n_100007_spring-boot-junit-test-service)
+2018-01-21 09:51:36.443 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - No active profile set, falling back to default profiles: default
+2018-01-21 09:51:36.847 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-21 09:51:39.488 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-01-21 09:51:39.490 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-01-21 09:51:39.765 [localhost-startStop-1] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-21 09:51:39.771 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-01-21 09:51:41.301 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-21 09:51:41.320 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-21 09:51:41.338 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-21 09:51:41.380 [restartedMain] INFO  com.opensourceteam.modules.business.sample.controller.Run - Started Run in 5.445 seconds (JVM running for 55.012)
+2018-01-21 09:51:54.993 [http-nio-8080-exec-2] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1515457749,1515568472,1516263544; Hm_lvt_22b090a8bd3af26b0c01da6b6cca6110=1515380811,1515457752,1515568480,1516263647; Hm_lvt_d3ac7439770a67e039203cc7f68fdbe8=1516257072,1516326714,1516345641; Hm_lvt_7a95abd7250c026d7940c143a3cd585c=1516257072,1516326714,1516345641] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-01-21 09:51:55.012 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-21 09:51:55.124 [http-nio-8080-exec-2] INFO  com.opensourceteam.modules.business.sample.controller.Run - SampleController 访问 
+2018-01-21 09:51:59.537 [http-nio-8080-exec-1] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-21 09:52:18.203 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Starting HelloServiceTest on evan-book-liu with PID 28756 (started by hadoop in E:\n_01_opensource(寮�婧愬ぇ涓栫晫)\n_02_intllij_workspaces\n_100007_spring-boot-junit-test-service)
+2018-01-21 09:52:18.211 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - No active profile set, falling back to default profiles: default
+2018-01-21 09:52:18.890 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-01-21 09:52:21.412 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloServiceTest - Started HelloServiceTest in 3.659 seconds (JVM running for 4.713)
+2018-01-21 09:52:21.466 [main] INFO  com.opensourceteam.modules.business.sample.service.HelloService - [HelloService.hello] call Sun Jan 21 09:52:21 CST 2018
+2018-01-21 10:03:28.525 [http-nio-8080-exec-5] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-21 10:03:41.363 [http-nio-8080-exec-8] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
+2018-01-21 10:03:44.680 [http-nio-8080-exec-6] INFO  com.opensourceteam.modules.business.sample.controller.HelloJspController - [/jsp/hello]测试/jsp/hello2 信息  == 4
